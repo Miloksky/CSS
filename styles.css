@@ -1,0 +1,22 @@
+.titulo1{
+    color: blueviolet;
+}
+
+.titulo2{
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+}
+.cambioDeColor{
+    color: red;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.texto2{
+    font-weight: bolder;
+    line-height: 2;
+}
+.mayuscula{
+    text-transform: uppercase;
+}
